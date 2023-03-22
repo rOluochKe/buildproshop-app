@@ -9,3 +9,6 @@ An ecommerce shop.
 - JavaScript
 - ReactJs
 - Redux
+- HTML
+- CSS
+- Bootstrap
